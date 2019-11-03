@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# IDE files
+.vscode
+
+# Credentials, keys, server FQDNs, secrets
+secrets.h
+
+# Build directory
+build
